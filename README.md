@@ -1,4 +1,4 @@
-# Frontend Mobile App Test - Matt Smith
+# Frontend Mobile App & Socket IO integration demo
 
 
 ## Prerequisites
@@ -62,13 +62,13 @@ If you can't get this to work, see the [Troubleshooting](https://reactnative.dev
 
 # Optimisation strategies
 
-- Furth development of redux/redux toolkit 
+- Further development of redux/redux toolkit 
 - Further development of api to send device changes back up to a DB to store more securely.
 - Add MMKV package OR develop our own storage of keys with a native module instead of AsyncStorage for better security and faster readability.
 
 # Improvements
 
-Improvements to make if I had time:
+Improvements to make for future development:
  - Install Detox for end-to-end testing: to fully test the flow of the app & screens
  - Fix mockImplementation red lines on home tests
  - Add unit tests for video streaming page
