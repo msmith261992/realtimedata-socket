@@ -52,6 +52,14 @@ cd backend && node server.js
 
 If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
 
+# What does the App do?
+
+Pair new dummy device on home screen
+Home screen displays device
+Data for temp & status changes on a timer from the BE, displaying real time data
+Local notification will be sent if temperature gets too high
+Start dummy video stream
+
 # Architectural decisions
 
 - Setup project as pages/components to display features.
